@@ -4,4 +4,9 @@ def dodaj():
 	b = int(input())
 	print(a+b)
 	
+def odejmij(a,b):
+	return a-b
+	
 dodaj()
+
+print('Koniec programu')
